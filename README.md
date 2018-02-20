@@ -51,6 +51,7 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | truncar | Truncar texto |
 | sombrear | Sombrear elementos div al pasar el mouse |
 | imagen | Imagen Responsiva |
+| imagenbox | Imagen con texto al pie de foto |
 | video | Contenedor de video en un frame |
 | videores | Video Responsivo |
 | pulso | Botón con efecto de pulso |
@@ -115,7 +116,6 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | acordeon | Acordeon |
 | alerta | Mensajes de alerta |
 | tooltip | Tooltip |
-| imagenbox | Imagen con texto al pie de foto |
 | slider | Slider de imagenes |
 | modal | Ventana modal |
 | modalfijo | Ventana modal footer fijo |
