@@ -76,4 +76,40 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | formulariolisto | Formulario para contacto |
 | inputicono | Input de texto con icono |
 | inputselect | Opciones de selección |
+| inputradio | Radio botón |
+| inputfile | Input de archivo |
+| inputfilemultiple | Input de archivo multiple |
+| inputrango | Input rango |
+| inputfecha | Input de fecha |
+| inputtiempo | Input de tiempo |
+| inputcontar | Input de contar texto |
+| inputautocompletar | Input de de autocompletar |
+| icono | Icono |
+| barrabusqueda | Barra de búsqueda |
+| menu | Menú fijo |
+| paginacion | Paginación |
+| progreso | Barra de progreso |
+| progresoind | Barra de progreso indeterminada |
+| progresocircular | Barra de progreso circular |
+| progresocircularcolor | Barra de progreso circular colores |
+| carrusel | Carrusel de imagen |
+| carruselpanel | Carrusel con panel |
+| acordeon | Acordeon |
+| alerta | Mensajes de alerta |
+| tooltip | Tooltip |
+| botonmenu | Botón con menú |
+| botondescovery | Botón Descovery |
+| imagenbox | Imagen con texto al pie de foto |
+| slider | Slider de imagenes |
+| modal | Ventana modal |
+| modalfijo | Ventana modal footer fijo |
+| modalinferior | Ventana modal inferior |
+| paralax | Efecto parralax |
+| scrollfire | Scrollfire en el en código JS |
+| scrollspy | Scrollspy en el en código JS |
+| menulateral | Menú lateral |
+| menulateralfijo | Menú lateral fijo |
+| tab | Tabs |
+| tabslider | Tabs con slider |
+| tabslider | Tabs con slider |
 
