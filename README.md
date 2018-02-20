@@ -5,19 +5,20 @@ Un conjunto de fragmentos fácil de utilizar en Visual Studio Code, para poder u
 
 # Nota
 
-Varios de los fragmentos, vienen comentarios con código js para su respectiva inicialización en Jquery, copiar y pegar en:
+Varios de los fragmentos, vienen comentarios con código **JS** para su respectiva inicialización en Jquery, copiar y pegar en:
 
 ```
 $(document).ready(function(){
   
 });
 ```  
-
+## Uso
+![example-use](https://i.imgur.com/Clz3TnU.gif)
 
 ## Como instalar
 
 1. Presione `F1` or `Ctrl-Shift-P` (Windows y Linux) o `Cmd-Shift-P` (MacOS)
-2. En la caja de busqueda, digite **fragmetos materialize** and select it.
+2. En la caja de busqueda, digite **fragmetos materialize** e instale.
 3. Reinicie Visual Studio Code.
 
 ## Como usarlos
