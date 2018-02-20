@@ -3,6 +3,8 @@ Un conjunto de fragmentos fácil de utilizar en Visual Studio Code, para poder u
 
 **Traducidos a idioma español y el con el contenido**
 
+![logo-fragmentos](https://i.imgur.com/CPB7gnt.png)
+
 # Nota
 
 Varios de los fragmentos, vienen comentarios con código **JS** para su respectiva inicialización en Jquery, copiar y pegar en:
@@ -13,7 +15,7 @@ $(document).ready(function(){
 });
 ```  
 ## Uso
-![example-use](https://i.imgur.com/Clz3TnU.gif)
+![como-usar](https://i.imgur.com/Clz3TnU.gif)
 
 ## Como instalar
 
