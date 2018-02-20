@@ -1,14 +1,14 @@
 # Fragmentos de códigos útiles para usar con Materialize CSS
-Un conjunto de fragmentos fácil de utilizar en Visual Studio Code, para poder utilizar en idioma en español.
+Un conjunto de fragmentos fácil de utilizar en Visual Studio Code, y en español.
 
-**Traducidos a idioma español y el con el contenido**
+**Traducidos a idioma español junto con el contenido**
 
-![logo-fragmentos](https://i.imgur.com/CPB7gnt.png)
+![logo-fragmentos](https://i.imgur.com/088cQss.png)
 ### Autor: Jonathan Moreno (jjmore83@gmail.com)
 
 # Nota
 
-Varios de los fragmentos, vienen comentarios con código **JS** para su respectiva inicialización en Jquery, copiar y pegar en:
+En varios de los fragmentos, vienen comentarios con código **JS** para su respectiva inicialización en Jquery, copiar y pegar en:
 
 ```
 $(document).ready(function(){
@@ -20,13 +20,13 @@ $(document).ready(function(){
 
 ## Como instalar
 
-1. Presione `F1` or `Ctrl-Shift-P` (Windows y Linux) o `Cmd-Shift-P` (MacOS)
-2. En la caja de busqueda, digite **fragmetos materialize** e instale.
+1. Presione `F1` or `Ctrl-Shift-P` (Windows y Linux) o `Cmd-Shift-P` (MacOS). Digite **Instalar Extensiones**
+2. En la caja de busqueda, digite **fragmentos materialize css** e instale.
 3. Reinicie Visual Studio Code.
 
 ## Como usarlos
 
-Los fragmentos estan elaborados en base a la documentación oficial de Materialise css, Ej. solo escriba la palabra y que desea usar **estructura** y la tecla `Tab` y de inmediato tendrá la estructura básica para empezar a usar el framework.
+Los fragmentos estan elaborados en base a la documentación oficial de Materialize CSS, con solo escribir un comando que desea usar y listo! Ej. digite **estructura** y la luego presiona la tecla `Tab` se mostrara la estructura básica para empezar a usar el framework.
 
 # Tabla de los fragmentos
 

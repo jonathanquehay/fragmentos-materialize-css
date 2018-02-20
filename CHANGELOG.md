@@ -1,5 +1,8 @@
 # Registros
 
+## 0.0.3 - (20 Feb 2018)
+- Actualización de la documentación
+
 ## 0.0.2 - (20 Feb 2018)
 - Actualización logo
 
