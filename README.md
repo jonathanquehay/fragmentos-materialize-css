@@ -3,6 +3,17 @@ Un conjunto de fragmentos fácil de utilizar en Visual Studio Code, para poder u
 
 **Traducidos a idioma español y el con el contenido**
 
+# Nota
+
+Varios de los fragmentos, vienen comentarios con código js para su respectiva inicialización en Jquery, copiar y pegar en:
+
+```
+$(document).ready(function(){
+  
+});
+```  
+
+
 ## Como instalar
 
 1. Presione `F1` or `Ctrl-Shift-P` (Windows y Linux) o `Cmd-Shift-P` (MacOS)
