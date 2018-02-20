@@ -1,7 +1,4 @@
-# Change Log
-All notable changes to the "fragmentos-materialize-css" extension will be documented in this file.
+# Registros
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-- Initial release
+## 1.0.0 - (20 Feb 2018)
+- Actualizada a la versión 0.100.2
