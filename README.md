@@ -59,7 +59,6 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | botonfijohorizontalclick | Botón fijo con click |
 | botonfijobarra | Botón fijo con toolbar |
 | botonsubmit | Botón Submit con icono |
-| menumigas | Menú de migas |
 | tarjeta | Tarjeta con link |
 | tarjetaimagen | Tarjeta con imagen |
 | tarjetaimagenboton | Tarjeta con botón flotante |
@@ -87,6 +86,9 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | icono | Icono |
 | barrabusqueda | Barra de búsqueda |
 | menu | Menú fijo |
+| menulateral | Menú lateral |
+| menulateralfijo | Menú lateral fijo |
+| menumigas | Menú de migas |
 | paginacion | Paginación |
 | progreso | Barra de progreso |
 | progresoind | Barra de progreso indeterminada |
@@ -107,8 +109,6 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | paralax | Efecto parralax |
 | scrollfire | Scrollfire en el en código JS |
 | scrollspy | Scrollspy en el en código JS |
-| menulateral | Menú lateral |
-| menulateralfijo | Menú lateral fijo |
 | tab | Tabs |
 | tabslider | Tabs con slider |
 | tabslider | Tabs con slider |
