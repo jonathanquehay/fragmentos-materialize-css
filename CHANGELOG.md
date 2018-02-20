@@ -1,5 +1,8 @@
 # Registros
 
+## 0.0.4 - (20 Feb 2018)
+- Compatibilidad para VSC 1.5.0
+
 ## 0.0.3 - (20 Feb 2018)
 - Actualización de la documentación
 
