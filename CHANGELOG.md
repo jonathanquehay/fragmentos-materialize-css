@@ -1,6 +1,6 @@
 # Registros
 
-## 0.0.1 - (20 Feb 2018)
+## 0.0.2 - (20 Feb 2018)
 - Actualización logo
 
 ## 0.0.1 - (20 Feb 2018)
