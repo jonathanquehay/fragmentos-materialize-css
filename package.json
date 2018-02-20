@@ -1,9 +1,9 @@
 {
     "name": "fragmentos-materialize-css",
-    "displayName": "Fragmentos Materialize CSS",
+    "displayName": "Fragmentos Materialize CSS | Visual Studio Code",
     "description": "Fragmentos para usar Materialize CSS",
     "icon": "img/icono.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "wdeploy",
     "homepage": "https://github.com/jonathanquehay/fragmentos-materialize-css/blob/master/README.md",
     "repository": {
