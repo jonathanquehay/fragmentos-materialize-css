@@ -70,6 +70,8 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | botonfijohorizontal | Botón fijo horizontal fijo |
 | botonfijohorizontalclick | Botón fijo con click |
 | botonfijobarra | Botón fijo con toolbar |
+| botonmenu | Botón con menú |
+| botondescovery | Botón Descovery |
 | botonsubmit | Botón Submit con icono |
 | tarjeta | Tarjeta con link |
 | tarjetaimagen | Tarjeta con imagen |
@@ -111,8 +113,6 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | acordeon | Acordeon |
 | alerta | Mensajes de alerta |
 | tooltip | Tooltip |
-| botonmenu | Botón con menú |
-| botondescovery | Botón Descovery |
 | imagenbox | Imagen con texto al pie de foto |
 | slider | Slider de imagenes |
 | modal | Ventana modal |
