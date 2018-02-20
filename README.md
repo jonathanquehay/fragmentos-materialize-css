@@ -11,11 +11,11 @@ Un conjunto de fragmentos fácil de utilizar en Visual Studio Code, para poder u
 
 ## Como usarlos
 
-Los fragmentos estan elaborados en base a la documentación oficial de Materialise css, Ej. solo escriba la palabra y que desea usar ** estructura ** y la tecla TAB y de inmediato tendrá la estructura básica para empezar a usar el framework.
+Los fragmentos estan elaborados en base a la documentación oficial de Materialise css, Ej. solo escriba la palabra y que desea usar **estructura** y la tecla `Tab` y de inmediato tendrá la estructura básica para empezar a usar el framework.
 
 # Tabla de los fragmentos
 
-| Fragmento |  Description |
+| Fragmento |  Descripción |
 |---------|-------------|
 | estructura | Estructura local con los archivos necesarios |
 | estructuracdn | Estructura con los links de los CDN necesarios |
