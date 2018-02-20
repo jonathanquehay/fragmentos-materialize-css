@@ -4,7 +4,7 @@ Un conjunto de fragmentos fácil de utilizar en Visual Studio Code, para poder u
 **Traducidos a idioma español y el con el contenido**
 
 ![logo-fragmentos](https://i.imgur.com/CPB7gnt.png)
-### Desarrollada por: Jonathan Moreno (jjmore83@gmail.com)
+### Autor: Jonathan Moreno (jjmore83@gmail.com)
 
 # Nota
 
