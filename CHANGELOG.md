@@ -1,5 +1,8 @@
 # Registros
 
+## 0.0.5 - (20 Feb 2018)
+- Cambio de gif mejor calidad
+
 ## 0.0.4 - (20 Feb 2018)
 - Compatibilidad para VSC 1.5.0
 
