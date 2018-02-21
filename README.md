@@ -16,7 +16,7 @@ $(document).ready(function(){
 });
 ```  
 ## Uso
-![como-usar](https://i.imgur.com/Clz3TnU.gif)
+![como-usar](https://i.imgur.com/fIMpPcP.gif)
 
 ## Como instalar
 
