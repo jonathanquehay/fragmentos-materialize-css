@@ -1,7 +1,8 @@
 # Registros
 
-## 0.0.5 - (20 Feb 2018)
+## 0.0.6 - (21 Feb 2018)
 - Cambio de gif mejor calidad
+- Agregar subtítulo en construcción
 
 ## 0.0.4 - (20 Feb 2018)
 - Compatibilidad para VSC 1.5.0

@@ -75,7 +75,7 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | botonfijohorizontalclick | Botón fijo con click |
 | botonfijobarra | Botón fijo con toolbar |
 | botonmenu | Botón con menú |
-| botondescovery | Botón Descovery |
+| botondiscovery | Botón Discovery |
 | botonsubmit | Botón Submit con icono |
 | tarjeta | Tarjeta con link |
 | tarjetaimagen | Tarjeta con imagen |
@@ -128,3 +128,5 @@ Los fragmentos estan elaborados en base a la documentación oficial de Materiali
 | tabslider | Tabs con slider |
 | tabslider | Tabs con slider |
 
+## Fragmentos de secciones
+**En construcción :)**
