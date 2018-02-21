@@ -25,10 +25,7 @@
         "materializecss",
         "html",
         "css",
-        "snippets",
-        "frameworks",
-        "Material",
-        "Frontend"
+        "snippets"
     ],
     "contributes": {
         "snippets": [

@@ -1396,8 +1396,8 @@
     ],
     "description": "Botón con menú"
   },
-  "Botón Descovery": {
-    "prefix": "botondescovery",
+  "Botón Discovery": {
+    "prefix": "botondiscovery",
     "body": [
       " <!-- Elemento a Mostrar -->",
       " <a id=\"menu\" class=\"waves-effect waves-light btn btn-floating\" ><i class=\"material-icons\">menu</i></a>",
@@ -1410,7 +1410,7 @@
       "   </div>",
       " </div>"
     ],
-    "description": "Botón Descovery"
+    "description": "Botón Discovery"
   },
   "Imagen con pie": {
     "prefix": "imagenbox",
